@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebasePhoneAuth</string>
+    <string name="phoneCode">+996</string>
+    <string name="verify_phone_number">Verify phone number</string>
+</resources>
